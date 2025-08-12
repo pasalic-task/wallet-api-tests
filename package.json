@@ -1,0 +1,22 @@
+{
+  "name": "wallet-api-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pasalic-task/wallet-api-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pasalic-task/wallet-api-tests/issues"
+  },
+  "homepage": "https://github.com/pasalic-task/wallet-api-tests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.53.1",
+    "@types/node": "^24.0.7"
+  }
+}
